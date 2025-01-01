@@ -7,3 +7,4 @@ xgboost
 nltk
 matplotlib
 regex
+vaderSentiment
