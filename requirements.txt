@@ -1,0 +1,9 @@
+Sastrawi
+streamlit
+scikit-learn
+pandas
+numpy
+xgboost
+nltk
+matplotlib
+regex
