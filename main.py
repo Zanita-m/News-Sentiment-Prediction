@@ -9,6 +9,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('punkt_tab')
+from nltk.corpus import stopwords
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
