@@ -72,7 +72,7 @@ def predict_sentiment(text):
 
 # ------- Streamlit Frontend ----------
 st.title("News Data Sentiment Analyzer")
-st.write("** *Khusus untuk data mengenai berita Pemilu Pilpres 2024**")
+st.write("* **Khusus untuk data mengenai berita Pemilu Pilpres 2024**")
 
 article_text = st.text_area("Masukkan teks artikel disini:")
 
