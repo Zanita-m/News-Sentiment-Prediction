@@ -1,3 +1,9 @@
+# Others
+pandas-test.py
+sas-test.py
+sas-test2.py
+test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +134,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.env-plswork
 .env
 .venv
 env/
